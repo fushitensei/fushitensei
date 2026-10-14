@@ -1,1 +1,7 @@
-<img src="https://i.pinimg.com/1200x/af/fb/d7/affbd73c575fa0b8ac53255d3f23a887.jpg" alt="Скриншот программы" width="400" />
+
+
+<img src="https://i.pinimg.com/1200x/af/fb/d7/affbd73c575fa0b8ac53255d3f23a887.jpg" alt="C.C." align="left" width="400" style="margin-right: 15px;" />
+
+Меня зовут так то  так то
+Я такой то такой то 
+Мне сколько столько лет
