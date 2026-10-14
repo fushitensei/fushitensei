@@ -1,4 +1,7 @@
-![](https://i.pinimg.com/1200x/af/fb/d7/affbd73c575fa0b8ac53255d3f23a887.jpg)
+
+<img src="https://pin.it/1oZFxAAAc" width="300" alt="Мое фото">
+
+
 <!--
 **fushitensei/fushitensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
