@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![C.C.](https://i.pinimg.com/736x/0d/df/6e/0ddf6e29e243daeb9fe0e37c4ee987a1.jpg)
 
 <!--
