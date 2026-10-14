@@ -1,5 +1,7 @@
-![C.C.](https://i.pinimg.com/736x/0d/df/6e/0ddf6e29e243daeb9fe0e37c4ee987a1.jpg)
 
+<p align="center">
+  <img src="[сюда_вставьте_прямую_ссылку_на_картинку](https://i.pinimg.com/736x/0d/df/6e/0ddf6e29e243daeb9fe0e37c4ee987a1.jpg)" width="300" alt="Описание">
+</p>
 <!--
 **fushitensei/fushitensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
