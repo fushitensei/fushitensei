@@ -3,7 +3,7 @@
 
 <img width="2172" height="724" alt="bannerC C" src="https://github.com/user-attachments/assets/4f522b29-2a14-44ec-ad15-6b347ad41069" />
 
-<img src="https://github.com/user-attachments/assets/3acb3cbb-3afe-4d8a-813f-b74dc4ee0c1f" alt="C.C." align="left" width="400" style="margin-right: 15px;" />
+<img src="https://github.com/user-attachments/assets/3acb3cbb-3afe-4d8a-813f-b74dc4ee0c1f" alt="C.C." align="left" width="350" style="margin-right: 15px;" />
 
 <h3>𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h3>
 𝙏𝙀𝙎𝙏 𝙈𝙔 𝙋𝙍𝙊𝙁𝙄𝙇𝙀 𝙇𝘼𝙔𝙊𝙐𝙏
