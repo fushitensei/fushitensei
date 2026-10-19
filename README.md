@@ -1,4 +1,4 @@
-<h1 align="center">👋𝖍𝖊𝖑𝖑𝖔𝖔𝖔!!)))) )))</h1>
+<h1 align="center">𝙷𝙴𝙻𝙻𝙾 𝚆𝙾𝚁𝙻𝙳!!)</h1>
 
 <img width="2172" height="724" alt="bannerC C" src="https://github.com/user-attachments/assets/4f522b29-2a14-44ec-ad15-6b347ad41069" />
 
