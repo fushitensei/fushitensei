@@ -5,3 +5,9 @@
 <img src="https://i.pinimg.com/1200x/af/fb/d7/affbd73c575fa0b8ac53255d3f23a887.jpg" alt="C.C." align="left" width="400" style="margin-right: 15px;" />
 
 𝙏𝙀𝙎𝙏 𝙈𝙔 𝙋𝙍𝙊𝙁𝙄𝙇𝙀 𝙇𝘼𝙔𝙊𝙐𝙏
+<h3>btw, I know</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,rust,zig&theme=dark" />
+</p>
+
+I AM NOOB
