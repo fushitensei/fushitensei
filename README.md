@@ -7,7 +7,8 @@
 <img src="https://github.com/user-attachments/assets/693b8c54-a4ed-49de-8e08-a52eddeda54b" alt="C.C." align="left" width="350" style="margin-right: 15px;" />
 
 <h3>𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h3>
-𝙏𝙀𝙎𝙏 𝙈𝙔 𝙋𝙍𝙊𝙁𝙄𝙇𝙀 𝙇𝘼𝙔𝙊𝙐𝙏
+Name: ПОКА НЕТ
+Age: 18
 <h3>btw, I know</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=python,go,rust,zig&theme=dark" />
