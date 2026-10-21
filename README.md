@@ -5,16 +5,16 @@
 <img src="https://github.com/user-attachments/assets/693b8c54-a4ed-49de-8e08-a52eddeda54b" alt="C.C." align="left" width="350" style="margin-right: 15px;" />
 
 <h3>𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h3>
-𝗡𝗮𝗺𝗲: ПОКА НЕТ <br>
-𝗔𝗴𝗲: 𝟭𝟴 <br>
-𝐈 𝐚𝐦 𝐚 𝐮𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐚𝐧𝐝 𝐈 𝐚𝐦 𝐬𝐭𝐮𝐝𝐲𝐢𝐧𝐠 𝐩𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠
-<h4>𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 ​​𝐭𝐡𝐚𝐭 𝐈 𝐚𝐦 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠</h4>
+Name: П0KA HET <br>
+Age: 18 <br>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
-<h4>𝐝𝐫𝐞𝐚𝐦 𝐨𝐟 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠</h4>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=go,rust,zig&theme=dark" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig" />
 </p>
-<br>
-I AM NOOB
