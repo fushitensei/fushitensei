@@ -1,6 +1,6 @@
 <h1 align="center">𝙷𝙴𝙻𝙻𝙾 𝚆𝙾𝚁𝙻𝙳!!)</h1>
 
-<img width="1000" height="300" alt="banner" src="https://github.com/user-attachments/assets/7c0ca2f1-1e86-46a5-9300-e92391769cd1" />
+<img width="840" height="280" alt="banner(1)" src="https://github.com/user-attachments/assets/21c086af-636a-47ef-b37e-c3803213e5d5" />
 
 <img src="https://github.com/user-attachments/assets/693b8c54-a4ed-49de-8e08-a52eddeda54b" alt="C.C." align="left" width="350" style="margin-right: 15px;" />
 
