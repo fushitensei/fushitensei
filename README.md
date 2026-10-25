@@ -3,36 +3,26 @@
 <img width="1000" height="250" alt="banner_wide3" src="https://github.com/user-attachments/assets/0fe4bd14-e362-4209-83d4-41485bf69d85" />
 
 <img align="left" width="300" alt="banner_portrait_v2" src="https://github.com/user-attachments/assets/61bf2af2-10b6-4e42-bc8b-271c03f93842" />
+    
+<h3>⠀⠀⠀⠀𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h3>
+⠀⠀⠀⠀Name: П0KA HET <br>
+⠀⠀⠀⠀Age: 18 <br>
+⠀⠀⠀⠀I am a first-year student at a Moscow university, majoring in «Information Systems and Technologies». My area of ​​expertise is the development and implementation of corporate information systems. <br> 
+⠀⠀⠀⠀I love cute anime, indie games, and indie music; one day, I’ll become a wealthy programmer. <br> 
+⠀⠀⠀⠀society — no, computer — YES YES YES <br> <br>
 
-<table>
-  <tr>
-    <td width="300" valign="top">
-      <img width="300" alt="banner_portrait_v2" src="https://github.com/user-attachments/assets/61bf2af2-10b6-4e42-bc8b-271c03f93842" />
-    </td>
-    <td width="40"></td>
-    <td valign="top">
-      
-<h3>𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h3>
-Name: П0KA HET <br>
-Age: 18 <br>
-I am a first-year student at a Moscow university, majoring in «Information Systems and Technologies». My area of ​​expertise is the development and implementation of corporate information systems. <br> 
-I love cute anime, indie games, and indie music; one day, I’ll become a wealthy programmer. <br> 
-society — no, computer — YES YES YES <br> <br>
-
-languages ​​that I am learning:
+⠀⠀⠀⠀languages ​​that I am learning:
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  ⠀⠀⠀⠀<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  ⠀<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
-dream of learning:
+⠀⠀⠀⠀dream of learning:
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  ⠀⠀⠀⠀<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig" />
 </p>
 
-  </tr>
-</table>
 
 <img width="2172" height="100" alt="lowbanner" src="https://github.com/user-attachments/assets/bb104e7f-1915-4ee8-8dd8-05c4da1da933" />
