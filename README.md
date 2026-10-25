@@ -4,7 +4,7 @@
 
 <img align="left" width="300" alt="banner_portrait_v2" src="https://github.com/user-attachments/assets/61bf2af2-10b6-4e42-bc8b-271c03f93842" />
     
-<h3>⠀⠀⠀⠀𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h3>
+<h3>⠀⠀⠀𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h3>
 ⠀⠀⠀⠀Name: П0KA HET <br>
 ⠀⠀⠀⠀Age: 18 <br> <br> 
     
