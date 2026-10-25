@@ -2,7 +2,7 @@
 
 <img width="1000" height="250" alt="banner_wide3" src="https://github.com/user-attachments/assets/0fe4bd14-e362-4209-83d4-41485bf69d85" />
 
-<img src="https://github.com/user-attachments/assets/693b8c54-a4ed-49de-8e08-a52eddeda54b" alt="C.C." align="left" width="350" style="margin-right: 15px;" />
+<img width="480" height="640" align="left" alt="banner_portrait_v2" src="https://github.com/user-attachments/assets/61bf2af2-10b6-4e42-bc8b-271c03f93842" />
 
 <h3>𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h3>
 Name: П0KA HET <br>
