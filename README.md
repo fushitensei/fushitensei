@@ -6,8 +6,8 @@
     
 <h3>⠀⠀⠀⠀𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h3>
 ⠀⠀⠀⠀Name: П0KA HET <br>
-⠀⠀⠀⠀Age: 18 <br>
-
+⠀⠀⠀⠀Age: 18 <br> <br> 
+    
 ⠀⠀⠀⠀languages ​​that I am learning:
 <p>
   ⠀⠀⠀⠀<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -21,5 +21,3 @@
   <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig" />
 </p>
 
-
-<img width="2172" height="100" alt="lowbanner" src="https://github.com/user-attachments/assets/bb104e7f-1915-4ee8-8dd8-05c4da1da933" />
