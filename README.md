@@ -7,9 +7,6 @@
 <h3>⠀⠀⠀⠀𝙰𝚋𝚘𝚞𝚝 𝚖𝚎</h3>
 ⠀⠀⠀⠀Name: П0KA HET <br>
 ⠀⠀⠀⠀Age: 18 <br>
-⠀⠀⠀⠀I am a first-year student at a Moscow university, majoring in «Information Systems and Technologies». My area of ​​expertise is the development and implementation of corporate information systems. <br> 
-⠀⠀⠀⠀I love cute anime, indie games, and indie music; one day, I’ll become a wealthy programmer. <br> 
-⠀⠀⠀⠀society — no, computer — YES YES YES <br> <br>
 
 ⠀⠀⠀⠀languages ​​that I am learning:
 <p>
