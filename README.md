@@ -1,5 +1,3 @@
-<h1 align="center">𝙷𝙴𝙻𝙻𝙾 𝚆𝙾𝚁𝙻𝙳!!)</h1>
-
 <img width="1000" height="250" alt="banner_wide3" src="https://github.com/user-attachments/assets/0fe4bd14-e362-4209-83d4-41485bf69d85" />
 
 <img align="left" width="300" alt="banner_portrait_v2" src="https://github.com/user-attachments/assets/61bf2af2-10b6-4e42-bc8b-271c03f93842" />
