@@ -6,7 +6,6 @@
 <img src="./image/about_me.png" width="488" />
 <br/>
 <br/>
-<br/>
 
 - Name: **П0kA HEt.** <br>
 - From: **Moscow, Russia.** <br> 
