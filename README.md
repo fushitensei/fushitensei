@@ -7,9 +7,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
-
-
 - Name: **П0kA HEt.** <br>
 - From: **Moscow, Russia.** <br> 
 
