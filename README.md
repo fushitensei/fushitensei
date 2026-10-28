@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-- Name: **П0kA HEt.** <br>
+- Age: **18** <br>
 - From: **Moscow, Russia.** <br> 
 
 - languages ​​that I am studying:
