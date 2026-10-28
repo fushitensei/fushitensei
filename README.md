@@ -28,4 +28,4 @@
 <a href="#"><img src="https://img.shields.io/badge/%23-A3B18A?style=for-the-badge"/></a> <a href="https://x.com/fushi_cod"><img src="https://img.shields.io/badge/TWITTER-A3B18A?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-A3B18A?style=for-the-badge"/></a>
 </p>
 
-<img src="./image/big!.png" width="100%" align="center" />
+<img src="./image/banner.png" width="100%" align="center" />
