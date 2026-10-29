@@ -5,7 +5,6 @@
 
 <img src="./image/about_me.png" width="488" />
 <br/>
-<br/>
 
 - Age: **18** <br>
 - From: **Moscow, Russia.** <br> 
